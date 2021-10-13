@@ -1,0 +1,4 @@
+[submodule "AlessandroSkab/abc_custom_product_extension"]
+	path = AlessandroSkab/abc_custom_product_extension
+	url = git@github.com:AlessandroSkab/abc_custom_product_extension.git
+	branch = 14.0
